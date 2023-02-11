@@ -1,4 +1,4 @@
-year,country,applicants,latitude,longitude,id
+year,name,applicants,latitude,longitude,id
 2018,Germany,15,52.5200° N,13.4050° E,276
 2018,USA,2,40.7128° N,74.0060° W,107
 2018,Poland,1,51.9194° N,19.1451° E,117
